@@ -12,4 +12,4 @@ else:
     amount=130+162.50+526+((units-200)*8.45)
     surcharge=75
 total=amount+surcharge
-print("\n Electricity Bill= %.2f "%total)
+print("\n Electricity Bill= %.2f " % total)
